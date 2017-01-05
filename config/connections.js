@@ -58,7 +58,7 @@ module.exports.connections = {
      ***************************************************************************/
     mongoDb: {
         adapter: 'sails-mongo',
-        url: process.env.MONGO_URI
+        url: process.env.MONGODB_URI
     },
 
     /***************************************************************************
