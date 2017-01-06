@@ -20,5 +20,8 @@ module.exports = {
     models: {
         connection: 'mongoDb',
         migrate: 'alter'
+    },
+    blueprints: {
+        shortcuts: true
     }
 };
