@@ -1,3 +1,8 @@
-# hymnfactory-server
+# hymnfactory Server
+Standlone server for hymnfactory
 
-a [Sails](http://sailsjs.org) application
+## Running
+`npm install && sails lift`
+
+API documentation can be accesses via localhost:1337/swagger/doc
+
